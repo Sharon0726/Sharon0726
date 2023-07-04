@@ -1,3 +1,3 @@
 # Hi I'm Sharon
 
-## A Taiwanese who love codeing in `python`. Sometimes collaborate with classmates.
+## I'm 蘇芯儀, living in NTTU, Tai-Tung. I love coding:))))))
